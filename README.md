@@ -26,3 +26,15 @@ The rule A ⇒ B holds in the data set(transactions) D with supports, where ‘s
 
 support(A⇒ B) =P(A ∪  B) 
 confidence(A⇒ B) =P(B|A)
+
+
+## • Apriori Algorithm 
+
+Apriori Algorithm is a widely-used and well-known Association Rule algorithm and is a popular algorithm used in market basket analysis. It is also considered accurate and overtop AIS and SETM algorithms. It helps to find frequent itemsets in transactions and identifies association rules between these items. The limitation of the Apriori Algorithm is frequent itemset generation. It needs to scan the database many times, leading to increased time and reduced performance as a computationally costly step because of a large dataset. It uses the concepts of Confidence and Support.
+
+
+![image](https://user-images.githubusercontent.com/91790864/233828286-08300cf0-5bd1-4495-ba49-6d88df0a7c3e.png)
+
+
+## Dataset Used for perform Analysis :- https://www.kaggle.com/code/ozlemilgun/market-basket-analysis-with-apriori-algorithm/input
+
