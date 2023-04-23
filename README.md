@@ -1,1 +1,3 @@
-# Market Basket Analysis
+# Market Basket Analysis in Python using Apriori Algorithm
+
+## -> Introduction
