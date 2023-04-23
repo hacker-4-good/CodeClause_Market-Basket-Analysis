@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/91790864/233852269-cae90685-1843-4a2c-ae29-5be62a95a5a6.png" width=10% height=10%> Market Basket Analysis in Python using Apriori Algorithm
+# <img src="https://user-images.githubusercontent.com/91790864/233852269-cae90685-1843-4a2c-ae29-5be62a95a5a6.png" width=15% height=15%> Market Basket Analysis in Python using Apriori Algorithm
 
 ## • Introduction
 
