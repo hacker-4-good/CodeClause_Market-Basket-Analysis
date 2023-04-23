@@ -16,3 +16,13 @@ For example, if customers are buying milk, how probably are they to also buy bre
 
 
 ![image](https://user-images.githubusercontent.com/91790864/233828064-55ac8e9f-7f36-4d9b-bd38-f7bcdbf7ac43.png)
+
+
+## • Association Rule 
+
+Let I = {I1, I2,…, Im} be an itemset. These itemsets are called antecedents. Let D, the data, be a set of database transactions where each transaction T is a nonempty itemset such that T ⊆ I. Each transaction is associated with an identifier called a TID(or Tid). Let A be a set of items(itemset). T is the Transaction that is said to contain A if A ⊆ T. An Association Rule is an implication of form A ⇒ B, where A ⊂ I, B ⊂ I,  and A ∩B = φ.
+
+The rule A ⇒ B holds in the data set(transactions) D with supports, where ‘s’ is the percentage of transactions in D that contain A ∪ B (i.e., the union of set A and set B, or both A and B). This is taken as the probability, P(A ∪ B). Rule A ⇒ B has confidence c in the transaction set D, where c is the percentage of transactions in D containing A that also contains B. This is taken to be the conditional probability, like P(B|A). That is,
+
+support(A⇒ B) =P(A ∪  B) 
+confidence(A⇒ B) =P(B|A)
